@@ -1,0 +1,69 @@
+name: Apache Groovy
+description: Apache Groovy is a powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at improving developer productivity thanks to a concise, familiar and easy to learn syntax.
+image: https://groovy-lang.org/img/groovy-logo.svg
+url: https://groovy-lang.org
+created: '2024'
+modified: '2024'
+apis:
+- name: Groovy Core API
+  description: The core Groovy language API documentation including all built-in classes, methods, and language features
+  baseURL: https://groovy-lang.org/api.html
+  humanURL: https://groovy-lang.org/documentation.html
+  properties:
+  - type: Documentation
+    url: https://groovy-lang.org/documentation.html
+  - type: API Documentation
+    url: https://docs.groovy-lang.org/latest/html/api/
+  - type: GDK Documentation
+    url: https://docs.groovy-lang.org/latest/html/groovy-jdk/
+  tags:
+  - Programming Language
+  - JVM
+  - Dynamic Language
+- name: Groovy Console
+  description: Interactive Groovy shell and scripting console for testing and development
+  humanURL: https://groovy-lang.org/groovyconsole.html
+  properties:
+  - type: Documentation
+    url: https://groovy-lang.org/groovyconsole.html
+  tags:
+  - Console
+  - Interactive
+  - Development Tool
+- name: Groovy Grape
+  description: Embedded dependency management system for Groovy scripts
+  humanURL: https://groovy-lang.org/grape.html
+  properties:
+  - type: Documentation
+    url: https://groovy-lang.org/grape.html
+  - type: API Documentation
+    url: https://docs.groovy-lang.org/latest/html/api/groovy/grape/Grape.html
+  tags:
+  - Dependency Management
+  - Package Manager
+maintainers:
+- name: Apache Groovy Team
+  email: dev@groovy.apache.org
+  url: https://groovy-lang.org/contribute.html
+tags:
+- Programming Language
+- Apache
+- JVM
+- Dynamic Language
+- Scripting
+include: []
+common:
+- type: Download
+  url: https://groovy.apache.org/download.html
+- type: GitHub Repository
+  url: https://github.com/apache/groovy
+- type: Getting Started
+  url: https://groovy-lang.org/learn.html
+- type: Mailing Lists
+  url: https://groovy-lang.org/mailing-lists.html
+- type: Twitter
+  url: https://twitter.com/ApacheGroovy
+- type: Blog
+  url: https://groovy-lang.org/blog.html
+- type: License
+  url: https://www.apache.org/licenses/LICENSE-2.0
