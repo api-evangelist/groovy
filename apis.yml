@@ -13,10 +13,10 @@ created: '2024'
 modified: '2026-03-16'
 specificationVersion: '0.19'
 tags:
-  - Programming Language
   - Apache
-  - JVM
   - Dynamic Language
+  - JVM
+  - Programming Language
   - Scripting
 apis:
   - aid: groovy:groovy-core-api
@@ -27,9 +27,9 @@ apis:
     baseURL: https://groovy-lang.org/api.html
     humanURL: https://groovy-lang.org/documentation.html
     tags:
-      - Programming Language
-      - JVM
       - Dynamic Language
+      - JVM
+      - Programming Language
     properties:
       - type: Documentation
         url: https://groovy-lang.org/documentation.html
@@ -45,8 +45,8 @@ apis:
     humanURL: https://groovy-lang.org/groovyconsole.html
     tags:
       - Console
-      - Interactive
       - Development Tool
+      - Interactive
     properties:
       - type: Documentation
         url: https://groovy-lang.org/groovyconsole.html
