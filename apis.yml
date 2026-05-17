@@ -35,7 +35,7 @@ apis:
         url: https://groovy-lang.org/documentation.html
       - type: Reference
         url: https://docs.groovy-lang.org/latest/html/api/
-      - type: Getting Started
+      - type: GettingStarted
         url: https://groovy-lang.org/learn.html
   - aid: groovy:groovy-console
     name: Groovy Console
@@ -67,15 +67,15 @@ common:
     url: https://groovy-lang.org/
   - type: Download
     url: https://groovy.apache.org/download.html
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/apache/groovy
-  - type: Getting Started
+  - type: GettingStarted
     url: https://groovy-lang.org/learn.html
   - type: Community
     url: https://groovy-lang.org/mailing-lists.html
   - type: Blog
     url: https://groovy-lang.org/blog.html
-  - type: Terms of Service
+  - type: TermsOfService
     url: https://www.apache.org/licenses/LICENSE-2.0
 maintainers:
   - FN: Kin Lane
