@@ -63,6 +63,8 @@ apis:
       - type: Reference
         url: https://docs.groovy-lang.org/latest/html/api/groovy/grape/Grape.html
 common:
+  - type: DomainSecurity
+    url: security/groovy-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/apache-groovy
   - type: Website
