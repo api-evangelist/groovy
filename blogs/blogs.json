@@ -2,14 +2,14 @@
   "repo": "groovy",
   "feeds": [
     {
-      "source": "https://groovy.apache.org/blog/",
-      "feed_url": "",
+      "source": "https://groovy-lang.org/mailing-lists.html",
+      "feed_url": "https://groovy-lang.org/mailing-lists.html",
+      "title": "",
       "saved": 0,
-      "method": "agent-scrape",
-      "note": "groovy-lang.org/blog.html redirects to 404; used groovy.apache.org/blog/; no posts in 2026-06-20..27 window (latest 2026-06-14)"
+      "method": "none"
     }
   ],
-  "post_count": 0,
-  "fetched": "2026-06-27T12:45:22Z",
-  "agent_pulled": "2026-06-27"
+  "post_count": 2,
+  "fetched": "2026-07-11T11:50:51Z",
+  "agent_pulled": "2026-07-04"
 }
