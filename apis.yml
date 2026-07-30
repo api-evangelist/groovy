@@ -6,6 +6,18 @@ description: >-
   aimed at improving developer productivity thanks to a concise, familiar
   and easy to learn syntax. It integrates smoothly with any Java program,
   and immediately delivers powerful features to your application.
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
 image: https://groovy-lang.org/img/groovy-logo.svg
 url: https://raw.githubusercontent.com/api-evangelist/groovy/refs/heads/main/apis.yml
 type: Index
