@@ -23,7 +23,7 @@ url: https://raw.githubusercontent.com/api-evangelist/groovy/refs/heads/main/api
 type: Index
 created: '2024'
 modified: '2026-04-28'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 tags:
   - Apache
   - Dynamic Language
