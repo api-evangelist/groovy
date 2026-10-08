@@ -86,6 +86,12 @@ apis:
       - type: Reference
         url: https://docs.groovy-lang.org/latest/html/api/groovy/grape/Grape.html
 common:
+  - type: Plans
+    url: plans/groovy-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/groovy-rate-limits.yml
+  - type: FinOps
+    url: finops/groovy-finops.yml
   - type: DomainSecurity
     url: security/groovy-domain-security.yml
   - type: LinkedIn
