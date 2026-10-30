@@ -1,4 +1,4 @@
-# Apache Groovy (groovy)
+# Apache Groovy
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,78 +64,107 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Apache Groovy is a powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at improving developer productivity thanks to a concise, familiar and easy to learn syntax.
+Apache Groovy is a powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at improving developer productivity thanks to a concise, familiar and easy to learn syntax. It integrates smoothly with any Java program, and immediately delivers powerful features to your application.
 
-**URL:** [Visit APIs.json URL](https://groovy-lang.org)
+**Areas:** Apache · Dynamic Language · JVM · Programming Language · Scripting
 
-## Tags:
+## Apache Groovy on APIs.io
 
- - Programming Language, Apache, JVM, Dynamic Language, Scripting
+Everything profiled for Apache Groovy is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/groovy/](https://apis.io/providers/groovy/)** — or go straight to one of the APIs or properties below.
 
-## Timestamps
+### APIs (3)
 
-- **Created:** 2024 
-- **Modified:** 2026-04-28 
+- [Groovy Core API](https://apis.io/apis/groovy/groovy-core-api/) — The core Groovy language API documentation including all built-in classes, methods, and language features.
+- [Groovy Console](https://apis.io/apis/groovy/groovy-console/) — Interactive Groovy shell and scripting console for testing and development.
+- [Groovy Grape](https://apis.io/apis/groovy/groovy-grape/) — Embedded dependency management system for Groovy scripts.
 
-## APIs
+### Published properties
 
-### Groovy Core API
-The core Groovy language API documentation including all built-in classes, methods, and language features
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-**Human URL:** [https://groovy-lang.org/documentation.html](https://groovy-lang.org/documentation.html)
+#### Security (1)
 
+Authentication, trust centre, and vulnerability disclosure.
 
-#### Tags:
+- [Groovy Domain Security](https://apis.io/security/groovy/groovy-domain-security/)
 
- - Programming Language, JVM, Dynamic Language
+#### Plans and pricing (1)
 
-#### Properties
+Published plans, tiers and prices.
 
-- [Documentation](https://groovy-lang.org/documentation.html)
-- [API Documentation](https://docs.groovy-lang.org/latest/html/api/)
-- [GDK Documentation](https://docs.groovy-lang.org/latest/html/groovy-jdk/)
+- [Groovy Plans Pricing](https://apis.io/plans/groovy/groovy-plans-pricing/)
 
-### Groovy Console
-Interactive Groovy shell and scripting console for testing and development
+#### Rate limits (1)
 
-**Human URL:** [https://groovy-lang.org/groovyconsole.html](https://groovy-lang.org/groovyconsole.html)
+Published request limits.
 
+- [Groovy Rate Limits](https://apis.io/rate-limits/groovy/groovy-rate-limits/)
 
-#### Tags:
+#### FinOps (1)
 
- - Console, Interactive, Development Tool
+What the API costs to run, by operation.
 
-#### Properties
+- [Groovy Finops](https://apis.io/finops/groovy/groovy-finops/)
 
-- [Documentation](https://groovy-lang.org/groovyconsole.html)
+## Where to find this API
 
-### Groovy Grape
-Embedded dependency management system for Groovy scripts
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-**Human URL:** [https://groovy-lang.org/grape.html](https://groovy-lang.org/grape.html)
-
-
-#### Tags:
-
- - Dependency Management, Package Manager
-
-#### Properties
-
-- [Documentation](https://groovy-lang.org/grape.html)
-- [API Documentation](https://docs.groovy-lang.org/latest/html/api/groovy/grape/Grape.html)
-
-## Common Properties
-
-- [Download](https://groovy.apache.org/download.html)
-- [GitHub Repository](https://github.com/apache/groovy)
-- [Getting Started](https://groovy-lang.org/learn.html)
-- [Mailing Lists](https://groovy-lang.org/mailing-lists.html)
-- [Twitter](https://twitter.com/ApacheGroovy)
+- [Website](https://groovy-lang.org/)
+- [Getting started](https://groovy-lang.org/learn.html)
 - [Blog](https://groovy-lang.org/blog.html)
-- [License](https://www.apache.org/licenses/LICENSE-2.0)
+- [Terms of service](https://www.apache.org/licenses/LICENSE-2.0)
+- [GitHub](https://github.com/apache/groovy)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Apache Groovy Team
+**Kin Score 14.8** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** dev@groovy.apache.org
+| Facet | Score |
+|---|---|
+| Discoverability | 62.5 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 21.4 |
+| Access clarity | 18.4 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 9.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/groovy/](https://apis.io/providers/groovy/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Apache Groovy: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/groovy/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
